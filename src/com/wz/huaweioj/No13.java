@@ -1,7 +1,7 @@
 package com.wz.huaweioj;
 //将类似“i am a boy” 转换成“boy a am i”,细节最后一个字符后边没有空格
 import java.util.Scanner;
-public class NO13 {
+public class No13 {
 	 public static void main(String[] args) {
 			// TODO Auto-generated method stub
 			Scanner in=new Scanner(System.in);

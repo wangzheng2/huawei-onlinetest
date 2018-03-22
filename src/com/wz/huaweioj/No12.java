@@ -1,7 +1,7 @@
 package com.wz.huaweioj;
 //问题：字符串反转：思路1和n，2和n-1,3和n-2位置互换
 import java.util.Scanner;
-public class NO12 {
+public class No12 {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		Scanner in=new Scanner(System.in);
